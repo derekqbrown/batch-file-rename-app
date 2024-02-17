@@ -1,0 +1,6 @@
+Sword
+Shield
+Spear
+Arrow
+Crystal
+Wisdom
